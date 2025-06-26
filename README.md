@@ -37,9 +37,11 @@
 - **Award:** Unity Choice Award, selected by Unity developers
 
 ## 📸 Screenshots
+
 <img src="https://github.com/user-attachments/assets/c005e6eb-9306-4f88-8dce-a3b11aa8e4c5" alt="image" width="300"/>
-![image](https://github.com/user-attachments/assets/4a1b40a4-567c-4b91-a8ae-2daaaa630d02)
-![image](https://github.com/user-attachments/assets/d1381865-4dfc-4bbf-992f-5076868f6a07)
+<img src="https://github.com/user-attachments/assets/4a1b40a4-567c-4b91-a8ae-2daaaa630d02" alt="image" width="500"/>
+<img src="(https://github.com/user-attachments/assets/d1381865-4dfc-4bbf-992f-5076868f6a07" alt="image" width="500"/>
+
 
 ## 🔮 Future Ideas
 - Expand questlines and add NPC variety
